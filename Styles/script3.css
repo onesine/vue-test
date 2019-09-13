@@ -1,0 +1,15 @@
+.app-content {
+    margin-top: 50px;
+    text-align: center;
+}
+.app-line {
+    text-decoration: line-through;
+}
+
+ul {
+    list-style: none;
+}
+
+.app-vue-green {
+    color: rgb(65, 184, 131);;
+}
